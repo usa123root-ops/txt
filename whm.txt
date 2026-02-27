@@ -1,13 +1,1221 @@
-https://server.deshampay.co.in:2087 root:2001@Run
-https://157-230-41-230.cprapid.com:2087 root:Jairamjiki@123Ji
-https://orlox.in:2087 root:Jairamjiki@123Ji
-https://iuri0220.hospedagemdesites.ws:2087 central3:Loca@10203040@
-https://server101.yayin.online:2087 btvcom:4~tAZIGmG7w]
-https://192.185.74.167:2087 tamani:rkx3Yf3URScOVWMz
-https://170.246.172.7:2087 root:URqv$5unPeIP
-https://ceres.alastyr.com:2087 suleyma4:Sa201096!!
-https://zeus.reisidc.srv.br:2087/cpsess9726597049/scripts4/listaccts wsdatace:Y1yPsKAOZNqF
-https://zeus.reisidc.srv.br:2087 wsdatace:Y1yPsKAOZNqF
-https://cpanel2.universal.net.id:2087 root:vu23&TcR)rc;!wU:
-https://hurr.host.com.pk:2087 uaehometech:jD+Y9NbeMdzn
-https://hosting.universal.net.id:2087 root:UCpanel18ok@#$
+URL: https://node606.myfcloud.com:2087
+USER: caralor
+PASS: ~aDeb?(VEK=x
+[>] Checked By @simosaper11
+
+URL: https://cp-wc85.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-rsl08.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl08.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc12.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl06.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc18.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-sbeat01.sin02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc22.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc19.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl11.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc56.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl02.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc61.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl03.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc25.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl10.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl04.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc03.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc40.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc05.lon01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc86.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-ner02.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc34.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc34.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc94.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-fprsl09.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-wc74.per01.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://cp-nl04.syd02.ds.network:2087
+USER: austhost
+PASS: MnYxevr5Hyjyrvy6
+[>] Checked By @simosaper11
+
+URL: https://hostmood.com:2087
+USER: hostmoodcom
+PASS: 18032023kd
+[>] Checked By @simosaper11
+
+URL: https://business100.mypowerfulserver.com:2087
+USER: cpsess5568334484/scripts5/wwwacct
+PASS: barookfarrukh.site
+[>] Checked By @simosaper11
+
+URL: https://node606.myfcloud.com:2087
+USER: caralor
+PASS: ~aDeb?(VEK=x
+[>] Checked By @simosaper11
+
+URL: https://rs73.gocheapweb.com:2087
+USER: digitalz
+PASS: IAz1)zEB6]af89
+[>] Checked By @simosaper11
+
+URL: https://roma.midc.com.br:2087
+USER: corpadco
+PASS: ;88Ek!2YkfEfP0
+[>] Checked By @simosaper11
+
+URL: https://express.websitewelcome.com:2087
+USER: cpsess4857539254/logout/
+PASS: mco003
+[>] Checked By @simosaper11
+
+URL: https://click.jambonex.net:2087
+USER: ola
+PASS: +nairobi2020
+[>] Checked By @simosaper11
+
+URL: https://rs008.webhostbox.net:2087
+USER: extin3o6
+PASS: Colombia2020!!
+[>] Checked By @simosaper11
+
+URL: https://aura.websitewelcome.com:2087
+USER: webext
+PASS: Mrapra1620
+[>] Checked By @simosaper11
+
+URL: https://aura.websitewelcome.com:2087
+USER: logout/
+PASS: webext
+[>] Checked By @simosaper11
+
+URL: https://athon.websitewelcome.com:2087
+USER: login/
+PASS: ab1397
+[>] Checked By @simosaper11
+
+URL: https://mclaren.websitewelcome.com:2087
+USER: dreamwor
+PASS: Mrap1620
+[>] Checked By @simosaper11
+
+URL: https://aura.websitewelcome.com:2087
+USER: cpsess7174580338/
+PASS: webext
+[>] Checked By @simosaper11
+
+URL: https://host.sh27.com.br:2087
+USER: ANFAL220
+PASS: @BemBicho/*
+[>] Checked By @simosaper11
+
+URL: https://cala.websitewelcome.com:2087
+USER: cr8soft
+PASS: dFURHYEoDAPDJ61B$!
+[>] Checked By @simosaper11
+
+URL: https://bluebird.websitewelcome.com:2087
+USER: dannybee
+PASS: budala013
+[>] Checked By @simosaper11
+
+URL: https://rx7.websitewelcome.com:2087
+USER: wicked
+PASS: Z4gZD3hyJejg47GK
+[>] Checked By @simosaper11
+
+URL: https://bluebird.websitewelcome.com:2087
+USER: login/
+PASS: dannybee
+[>] Checked By @simosaper11
+
+URL: https://rs010.webhostbox.net:2087
+USER: thegreatachieverspro@gmail.com
+PASS: badekolu1
+[>] Checked By @simosaper11
+
+URL: https://srv200.prodns.com.br:2087
+USER: anonymous2gov@gmail.com
+PASS: Makhloufi06
+[>] Checked By @simosaper11
+
+URL: https://srv200.prodns.com.br:2087
+USER: sebastianmoreira92@yahoo.com
+PASS: sebas880800
+[>] Checked By @simosaper11
+
+URL: https://srv200.prodns.com.br:2087
+USER: cajaalianzafamiliar@hotmail.com
+PASS: caf2018..
+[>] Checked By @simosaper11
+
+URL: https://www.webk2.com.br:2087
+USER: webk2com
+PASS: Ipicasa052020
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xmovers
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://whm.sansoftwares.com:2087
+USER: logout/
+PASS: sansolrn
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: thexchange.tech
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: twentynine.com
+PASS: Cocomo12!
+[>] Checked By @simosaper11
+
+URL: https://secure162.servconfig.com:2087
+USER: login
+PASS: amanet5
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: sanantonioschoolof.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangebicycle.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: leatherb.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangestudios.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: helpinghand
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: shoebiz
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: eyeshoot
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: ccionet
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangerealestat
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangeradio.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xprogram
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xbricks
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://server222.iseencloud.com:2087
+USER: qvpiluqm
+PASS: klass12345
+[>] Checked By @simosaper11
+
+URL: https://srv25.hostserv.co.za:2087
+USER: amukela1
+PASS: 07440AMK
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: renaclipcom
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: shoetech
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: virtual29
+PASS: Cocomo12!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xcomputers
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: vidarrgear.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xllc
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangefinancialservices.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://holden.websitewelcome.com:2087
+USER: linkaxle
+PASS: 2BY2vvoQH5n9LfNb
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: logout/
+PASS: renaclip
+[>] Checked By @simosaper11
+
+URL: https://cooper.websitewelcome.com:2087
+USER: sqlfer
+PASS: codaw123
+[>] Checked By @simosaper11
+
+URL: https://server222.iseencloud.com:2087
+USER: qvpiluqm
+PASS: @#$%klass12345
+[>] Checked By @simosaper11
+
+URL: https://srv25.hostserv.co.za:2087
+USER: amukela1
+PASS: @07440AMK
+[>] Checked By @simosaper11
+
+URL: https://coronet.websitewelcome.com:2087
+USER: login/
+PASS: sumak
+[>] Checked By @simosaper11
+
+URL: https://informareducacional.com.br:2087
+USER: fernando
+PASS: Rede1Zal_1000
+[>] Checked By @simosaper11
+
+URL: https://reseller14.prodns.com.co:2087
+USER: jumperwi
+PASS: Elen2214*
+[>] Checked By @simosaper11
+
+URL: https://www.informareducacional.com.br:2087
+USER: fernando
+PASS: Rede1Zal_1000
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: mtfarm
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: fshoes
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xmoney
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://savgroup.com.br:2087
+USER: savgr608
+PASS: sav@2013
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: collins-ministries.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://diardi.websitewelcome.com:2087
+USER: carmen
+PASS: TemporaryPassword1234!
+[>] Checked By @simosaper11
+
+URL: https://secure216.servconfig.com:2087
+USER: mullan5
+PASS: Ky0ngCh@Mu11@n3y
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangeagent
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangenewsnetwork.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: fanfavorite
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xtaxie
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xrealestate
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: simonebryant.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://skyline.websitewelcome.com:2087
+USER: login
+PASS: hostesse
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchanllc
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: freckles
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: renaclip.org
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xclean
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: thefanfavorite.net
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xagent
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangeinsurance
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchanllc
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xdsrvs
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: shoemakrnet
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: mylittle-artist.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: gamefowlxchange.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: alyssazarbock.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: shoenet
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: tattoskate
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: creativeconsult
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://infiniti.websitewelcome.com:2087
+USER: ab4759
+PASS: 2wsx@WSX
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: prudencesneed.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: renaclip
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xprogramsnet
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xstudios
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangemarketing
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: newsxchange.net
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: urbeautybarber.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangetaxie.com
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: beemyhoney.biz
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://server.dedicadomvf5.com:2087
+USER: hostagui
+PASS: MUnU87u1az0G+
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xnetnews
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xaccounting
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xprograms
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xinsure
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xchangenews.net
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xstories
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: thexnet.com
+PASS: oicu812b4!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: mrcollinsrop
+PASS: Cocomo12!
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: monieb.biz
+PASS: oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://spark.websitewelcome.com:2087
+USER: shanbeac
+PASS: justdoit2
+[>] Checked By @simosaper11
+
+URL: https://reidosconsertos.com.br:2087
+USER: worldcre
+PASS: ?
+[>] Checked By @simosaper11
+
+URL: https://bh-68.webhostbox.net:2087
+USER: cpsess8098651348/scripts5/wwwacct
+PASS: cencaem
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: sanantonioschoolof.com
+PASS: !oicu812B4!
+[>] Checked By @simosaper11
+
+URL: https://malibu.websitewelcome.com:2087
+USER: ab529
+PASS: iSDjv2Oh%pK8
+[>] Checked By @simosaper11
+
+URL: https://corvette.websitewelcome.com:2087
+USER: nsuys
+PASS: L0g!cTr3#
+[>] Checked By @simosaper11
+
+URL: https://wired-sa.dedicated.co.za:2087
+USER: www.eiegroup.co.za
+PASS: l5Eozv?aZMCC
+[>] Checked By @simosaper11
+
+URL: https://srv140.prodns.com.br:2087
+USER: velhopor
+PASS: 171007729x1
+[>] Checked By @simosaper11
+
+URL: https://ansuzmexico.com:2087
+USER: ansuz1
+PASS: 0sc4r1981
+[>] Checked By @simosaper11
+
+URL: https://skittle.websitewelcome.com:2087
+USER: theyao
+PASS: xDjQq97WpN6Sr2oC
+[>] Checked By @simosaper11
+
+URL: https://fthbilisim.com:2087
+USER: fth
+PASS: Darkdark1453??
+[>] Checked By @simosaper11
+
+URL: https://svr.solushost.com.br:2087
+USER: cpsess6468135422/scripts5/wwwacct
+PASS: reders
+[>] Checked By @simosaper11
+
+URL: https://srv220.prodns.com.br:2087
+USER: lifesugar.com.br
+PASS: lisu0000
+[>] Checked By @simosaper11
+
+URL: https://divinohost.com.br:2087
+USER: divinohostcom
+PASS: QPA8.S6Wc1J=e?pmNp3242#$%@
+[>] Checked By @simosaper11
+
+URL: https://hophopbubbledrink.com:2087
+USER: hophopbu
+PASS: Avocado$$999
+[>] Checked By @simosaper11
+
+URL: https://scorpio.websitewelcome.com:2087
+USER: ab4041
+PASS: 0nI0NtrFhKjvX7H9
+[>] Checked By @simosaper11
+
+URL: https://lionsoftdobrasil.com.br:2087
+USER: lionsoft
+PASS: [CpWQ.38glVE
+[>] Checked By @simosaper11
+
+URL: https://bestassignmentwriter.co.uk:2087
+USER: best
+PASS: Cloud@2021!
+[>] Checked By @simosaper11
+
+URL: https://srv20.prodns.com.br:2087
+USER: login/
+PASS: ecdns
+[>] Checked By @simosaper11
+
+URL: https://ninja.websitewelcome.com:2087
+USER: cpsess3975176935/
+PASS: reynaldo
+[>] Checked By @simosaper11
+
+URL: https://bostonproweb.com:2087
+USER: bostonpr
+PASS: h@r@p_verde_904
+[>] Checked By @simosaper11
+
+URL: https://iuri0015.hospedagemdesites.ws:2087
+USER: onocomp7
+PASS: 1206@@Mudar$$$
+[>] Checked By @simosaper11
+
+URL: https://lingo.com.br:2087
+USER: tatuadoraguarulh
+PASS: Tinsheep
+[>] Checked By @simosaper11
+
+URL: https://www.senhorinihost.com.br:2087
+USER: logout/
+PASS: portalcv
+[>] Checked By @simosaper11
+
+URL: https://realsafety.sa:2087
+USER: ab814
+PASS: Aa0122471547
+[>] Checked By @simosaper11
+
+URL: https://srv254.prodns.com.br:2087
+USER: lifete36
+PASS: ?
+[>] Checked By @simosaper11
+
+URL: https://cpanel0124.hospedagemdesites.ws:2087
+USER: alexfm25
+PASS: alexboasnovas1981*
+[>] Checked By @simosaper11
+
+URL: https://cp68.webserver.pt:2087
+USER: gaivotos
+PASS: 1R649dmsKh
+[>] Checked By @simosaper11
+
+URL: https://comunidademegadrive.com.br:2087
+USER: universo
+PASS: saco2469@
+[>] Checked By @simosaper11
+
+URL: https://sgvip5.noc401.com:2087
+USER: cpsess3739050461/
+PASS: zarss
+[>] Checked By @simosaper11
+
+URL: https://eu01.server.plus:2087
+USER: liocqhai
+PASS: Gold&silver@
+[>] Checked By @simosaper11
+
+URL: https://huayra.websitewelcome.com:2087
+USER: ab1363
+PASS: vc4plhJm#w*okuWx5$
+[>] Checked By @simosaper11
+
+URL: https://sauberc9.websitewelcome.com:2087
+USER: xgamepad.app
+PASS: oicu812!
+[>] Checked By @simosaper11
+
+URL: https://albhapublicidad.com:2087
+USER: login/
+PASS: albhapub
+[>] Checked By @simosaper11
+
+URL: https://iuri0093.hospedagemdesites.ws:2087
+USER: hostdireto
+PASS: ##vsrgyn19vini87##
+[>] Checked By @simosaper11
+
+URL: https://bh-ht-8.webhostbox.net:2087
+USER: techtxho
+PASS: Hjkhjtbwujt14!$
+[>] Checked By @simosaper11
+
+URL: https://cpanel5.hostlab.net.tr:2087
+USER: ucuzpubguc.market
+PASS: Uslanmaz61
+[>] Checked By @simosaper11
+
+URL: https://saturn.odeaweb.com:2087
+USER: onurbaylancomtr
+PASS: h82OooI7u9
+[>] Checked By @simosaper11
+
+URL: https://cpanel5.hostlab.net.tr:2087
+USER: enucuzucbayisi.com
+PASS: Uslanmaz.61
+[>] Checked By @simosaper11
+
+URL: https://cpanel1.kayizer.com:2087
+USER: onurbayl
+PASS: 134679852wW#
+[>] Checked By @simosaper11
+
+URL: https://saturn.odeaweb.com:2087
+USER: agifaren
+PASS: h82OooI7u9
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: cpsess7739235292/
+PASS: elfapub1
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: xfercpanel
+PASS: elfapub1
+[>] Checked By @simosaper11
+
+URL: https://whm.destekhosting.com.tr:2087
+USER: onurbayl
+PASS: 134679852wW#
+[>] Checked By @simosaper11
+
+URL: https://iuri0016.hospedagemdesites.ws:2087
+USER: elfapubl
+PASS: LW7tn6F?gcQHy8
+[>] Checked By @simosaper11
+
+URL: https://srv26.prodns.com.br:2087
+USER: estud381
+PASS: sadipdr2021
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: elfapub1
+PASS: !HQx1DbUy8aNs7
+[>] Checked By @simosaper11
+
+URL: https://cooper.websitewelcome.com:2087
+USER: gamersda
+PASS: Fr33d0mWhm
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: cpsess7467603194/
+PASS: elfapub1
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: cpsess7467603194/
+PASS: elfapub1
+[>] Checked By @simosaper11
+
+URL: https://host.alka.cloud:2087
+USER: turbohos
+PASS: 4Z6+wwZ#Ry7Yx4
+[>] Checked By @simosaper11
+
+URL: https://server.rebootns.com:2087
+USER: technoprohost
+PASS: q3#At0o2iT2E.A
+[>] Checked By @simosaper11
+
+URL: https://cpanel0144.hospedagemdesites.ws:2087
+USER: xfercpanel
+PASS: elfapub1
+[>] Checked By @simosaper11
+
+URL: https://iuri0160.hospedagemdesites.ws:2087
+USER: elfapub1
+PASS: @6qh^5?Ih{90
+[>] Checked By @simosaper11
+
+URL: https://cpanel0116.hospedagemdesites.ws:2087
+USER: elfapubl
+PASS: K0Oos@qFcL7T2w
+[>] Checked By @simosaper11
+
+URL: https://ocpublicidade.com.br:2087
+USER: ocpublic
+PASS: 3cja64fxpl
+[>] Checked By @simosaper11
+
+URL: https://cooper.websitewelcome.com:2087
+USER: gamersda
+PASS: matrix62
+[>] Checked By @simosaper11
+
+URL: https://aerostar.websitewelcome.com:2087
+USER: banfii1
+PASS: Restopros1
+[>] Checked By @simosaper11
+
+URL: https://server.rebootns.com:2087
+USER: aveneesh
+PASS: @zF$H6!@B@u"6Qs
+[>] Checked By @simosaper11
+
+URL: https://cpanel5.hostlab.net.tr:2087
+USER: ucuzpubguc.market
+PASS: Uslanmaz61
+[>] Checked By @simosaper11
+
+URL: https://saturn.odeaweb.com:2087
+USER: onurbaylancomtr
+PASS: h82OooI7u9
+[>] Checked By @simosaper11
+
+URL: https://cpanel0116.hospedagemdesites.ws:2087
+USER: elfapubl
+PASS: K0Oos@qFcL7T2w
+[>] Checked By @simosaper11
+
+URL: https://cpanel1.kayizer.com:2087
+USER: onurbayl
+PASS: 134679852wW#
+[>] Checked By @simosaper11
+
+URL: https://cpanel5.hostlab.net.tr:2087
+USER: enucuzucbayisi.com
+PASS: Uslanmaz.61
+[>] Checked By @simosaper11
+
+URL: https://iuri0016.hospedagemdesites.ws:2087
+USER: elfapubl
+PASS: LW7tn6F?gcQHy8
+[>] Checked By @simosaper11
+
+URL: https://saturn.odeaweb.com:2087
+USER: agifaren
+PASS: h82OooI7u9
+[>] Checked By @simosaper11
+
+URL: https://whm.destekhosting.com.tr:2087
+USER: onurbayl
+PASS: 134679852wW#
+[>] Checked By @simosaper11
+
+URL: https://srv26.prodns.com.br:2087
+USER: estud381
+PASS: sadipdr2021
+[>] Checked By @simosaper11
+
+URL: https://cooper.websitewelcome.com:2087
+USER: gamersda
+PASS: Fr33d0mWhm
+[>] Checked By @simosaper11
+
+URL: https://host.alka.cloud:2087
+USER: turbohos
+PASS: 4Z6+wwZ#Ry7Yx4
+[>] Checked By @simosaper11
+
+URL: https://server.rebootns.com:2087
+USER: technoprohost
+PASS: q3#At0o2iT2E.A
+[>] Checked By @simosaper11
+
+URL: https://ocpublicidade.com.br:2087
+USER: ocpublic
+PASS: 3cja64fxpl
+[>] Checked By @simosaper11
+
+URL: https://cooper.websitewelcome.com:2087
+USER: gamersda
+PASS: matrix62
+[>] Checked By @simosaper11
+
+URL: https://aerostar.websitewelcome.com:2087
+USER: banfii1
+PASS: Restopros1
+[>] Checked By @simosaper11
+
+URL: https://server.rebootns.com:2087
+USER: aveneesh
+PASS: @zF$H6!@B@u"6Qs
+[>] Checked By @simosaper11
+
+URL: https://zeus.hostsrv.org:2087
+USER: porta637
+PASS: pqU67sv10S
+[>] Checked By @simosaper11
+
+URL: https://altar53.supremepanel53.com:2087
+USER: qanaraco
+PASS: h%qgxK6a;;O(
+[>] Checked By @simosaper11
+
+URL: https://sabinter-sarl.com:2087
+USER: noowe
+PASS: Rosbill123+
+[>] Checked By @simosaper11
+
+
+URL: https://business100.mypowerfulserver.com:2087/cpsess5568334484/scripts5/wwwacct
+USER: barookfarrukh.site
+PASS: Tf]8:9D33fsDeV
+[>] Checked By @simosaper11
+
+URL: https://tamanrasuna.id:2087
+USER: root
+PASS: Ikhwanul1234
+[>] Checked By @simosaper11
+
+URL: https://runol.net:2087
+USER: root
+PASS: Q(~Gc8.8K-4wpbH
+[>] Checked By @simosaper11
+
+URL: https://runol.net:2087
+USER: root
+PASS: xw&UL43@QVGd
+[>] Checked By @simosaper11
+
+URL: https://slw.halcyondigitalhost.com:2087
+USER: root
+PASS: HG{{g%Sag~()[_fr_9RC@u#
+[>] Checked By @simosaper11
+
+URL: https://runol.net:2087
+USER: root
+PASS: Q(~Gc8.8K-4wpbH
+[>] Checked By @simosaper11
+
+URL: https://whm.cubeabout.com:2087
+USER: root
+PASS: )u.ngiSc?6,^
+[>] Checked By @simosaper11
+
+URL: https://whm.cubeabout.com:2087
+USER: root
+PASS: )FeK4Hi2X!xzSY
+[>] Checked By @simosaper11
+
+URL: https://aemx.cubeabout.com:2087
+USER: root
+PASS: Z#q7#+W_+9X==8Sc
+[>] Checked By @simosaper11
+
+URL: https://whm.cubeabout.com:2087
+USER: root
+PASS: )u.ngiSc?6,^
+[>] Checked By @simosaper11
+
+URL: https://bhaktivedantacollege.com:2087
+USER: root
+PASS: BwDYpxYmK4ftpv
+[>] Checked By @simosaper11
+
+URL: https://www.baligroup-dz.com:2087
+USER: root
+PASS: s4fb7m&oGd7wnn
+[>] Checked By @simosaper11
+
+URL: https://server.walexbizserver.com:2087
+USER: root
+PASS: 12345Walexbiz
+[>] Checked By @simosaper11
+
+URL: https://kprouskas.com:2087
+USER: root
+PASS: FSmkx^2L4Ts^a4rrb/SD+&mMP]KXP7
+[>] Checked By @simosaper11
+
+URL: https://sff.gr:2087
+USER: root
+PASS: FSmkx^2L4Ts^a4rrb/SD+&mMP]KXP7
+[>] Checked By @simosaper11
+
+URL: https://vps28875.inmotionhosting.com:2087
+USER: root
+PASS: Manolo#2404
+[>] Checked By @simosaper11
+
+URL: https://callix.ae:2087
+USER: root
+PASS: 46I8m3ctIe
+[>] Checked By @simosaper11
+
+URL: https://claustrouniversitariodeoriente.edu.mx:2087
+USER: root
+PASS: dy1CGt9:[@T}
+[>] Checked By @simosaper11
+
+URL: https://sunexpress.com.my:2087
+USER: root
+PASS: pen26858
+[>] Checked By @simosaper11
+
+URL: https://zoom.nsjet.com:2087
+USER: root
+PASS: phOxbFumi(v=y,Oy0Y{s
+[>] Checked By @simosaper11
+
+URL: https://active.host-care.com:2087
+USER: root
+PASS: P@kji48jJH]dKLnF_G
+[>] Checked By @simosaper11
+
+URL: https://host1.taxmarketing.com:2087
+USER: root
+PASS: t6bEs[mo1blFjv
+[>] Checked By @simosaper11
+
+URL: https://iep.rs:2087
+USER: root
+PASS: 1I0j4HpGzbR5
+[>] Checked By @simosaper11
+
+URL: https://regina.nextvision.mx:2087/cpsess1573749797
+USER: root
+PASS: ^d~vh%0tD=
+[>] Checked By @simosaper11
+
+URL: https://ayu.ip-asia.com:2087
+USER: root
+PASS: hR8Jt-v6=XfW$5w
+[>] Checked By @simosaper11
+
+URL: https://whm.lifecc.com.br:2087
+USER: root
+PASS: openkk1
+[>] Checked By @simosaper11
+
+URL: https://whm.lifecc.com.br:2087
+USER: root
+PASS: openkk1
+[>] Checked By @simosaper11
+
+URL: https://virt13-sda219.brs.com.br:2087
+USER: root
+PASS: rio8978pdfbrs333xxx
+[>] Checked By @simosaper11
+
+URL: https://virt13-sda219.brs.com.br:2087
+USER: root
+PASS: rio8978pdfbrs333xxx
+[>] Checked By @simosaper11
+
